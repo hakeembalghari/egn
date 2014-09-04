@@ -1,0 +1,4 @@
+[13-Jun-2014 06:34:28 America/Los_Angeles] PHP Warning:  include(common.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elect150/public_html/beta/default/header.php on line 2
+[13-Jun-2014 06:34:28 America/Los_Angeles] PHP Warning:  include(common.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elect150/public_html/beta/default/header.php on line 2
+[13-Jun-2014 06:34:28 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'common.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/elect150/php') in /home/elect150/public_html/beta/default/header.php on line 2
+[13-Jun-2014 06:34:28 America/Los_Angeles] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/elect150/public_html/beta/default/header.php on line 53
