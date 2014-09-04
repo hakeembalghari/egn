@@ -1,0 +1,16 @@
+[12-Aug-2014 03:53:08 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=' in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 9
+[12-Aug-2014 03:54:19 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 24
+[12-Aug-2014 04:11:12 America/Los_Angeles] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 23
+[12-Aug-2014 04:12:08 America/Los_Angeles] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 23
+[12-Aug-2014 04:13:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_STRING in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 17
+[12-Aug-2014 04:14:14 America/Los_Angeles] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 21
+[12-Aug-2014 04:14:14 America/Los_Angeles] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 23
+[12-Aug-2014 04:15:43 America/Los_Angeles] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 21
+[12-Aug-2014 04:15:43 America/Los_Angeles] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 23
+[12-Aug-2014 04:17:12 America/Los_Angeles] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 23
+[12-Aug-2014 04:30:42 America/Los_Angeles] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 23
+[12-Aug-2014 04:32:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 42
+[12-Aug-2014 05:14:51 America/Los_Angeles] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 85
+[12-Aug-2014 05:33:45 America/Los_Angeles] PHP Warning:  require(common.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 3
+[12-Aug-2014 05:33:45 America/Los_Angeles] PHP Warning:  require(common.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 3
+[12-Aug-2014 05:33:45 America/Los_Angeles] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'common.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/elect150/php') in /home/elect150/public_html/beta/cgl-admin/logincheck.php on line 3
