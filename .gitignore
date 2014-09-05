@@ -3,12 +3,10 @@
 nbproject/project.properties
 nbproject/project.xml
 cgl-admin/common.php
-cgl-admin/common.php
-cgl-admin/common.php
 cgl-admin/tournaments/common.php
 cgl-admin/tournaments/config.php
 cgl-admin/tournaments/pages/config.php
-common.php
 config.php
 func_init.php
 myDb.php
+common.php
