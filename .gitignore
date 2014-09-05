@@ -10,3 +10,4 @@ config.php
 func_init.php
 myDb.php
 common.php
+cgl-admin/.htaccess
