@@ -4,8 +4,8 @@ if(!session_start())
 session_start();
 }
 define("SERVER","localhost");
-define("USERNAME","elect150_zaman");
-define("PASSWORD","ilovepakistan123");
+define("USERNAME","root");
+define("PASSWORD","");
 define("DATABASE","elect150_core");
 $con=mysqli_connect(SERVER,USERNAME,PASSWORD,DATABASE);
 $tpath="http://www.electronicgaming.net/beta/cgl-admin/tournaments/";

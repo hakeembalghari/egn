@@ -4,9 +4,9 @@
 	include_once('func_init.php');
 	$ip = $_SERVER["REMOTE_ADDR"];
 	// Begin Database
-    $username = "elect150_zaman"; 
-    $password = "ilovepakistan123";
-    $host = "127.0.0.1"; 
+    $username = "root"; 
+    $password = "";
+    $host = "localhost"; 
     $dbname = "elect150_core"; 
 	// END Begin Database
     $options = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'); 

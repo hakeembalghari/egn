@@ -1,4 +1,5 @@
 <?PHP
+
 	function is_logged(){
 		if(isset($_SESSION["user"])) {
 			return true;

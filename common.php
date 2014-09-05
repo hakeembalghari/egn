@@ -3,8 +3,8 @@
 	include('func_init.php');
 	$ip = $_SERVER["REMOTE_ADDR"];
 	// Begin Database
-    $username = "elect150_zaman"; 
-    $password = "ilovepakistan123";
+    $username = "root"; 
+    $password = "";
     $host = "localhost"; 
     $dbname = "elect150_core"; 
 	// END Begin Database
