@@ -1,6 +1,5 @@
 <?PHP
 	include('common.php');
-        
 	switch($_GET["p"]):
 		case "home":
 			$title = "Whats Your Game?";
@@ -141,6 +140,7 @@
 <html>
    <head>
       <title>CGL - <?PHP echo $title; ?></title>
+      <base href="/beta/">
       <!-- Bootstrap -->
       <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
       <link href="css/style_old.css" rel="stylesheet" media="screen">
