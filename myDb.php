@@ -7,7 +7,7 @@ if(!$server)
 }
 else
 {
-	$con = mysqli_connect("localhost","elect150_zaman","ilovepakistan123","elect150_core") or 
+	$con = mysqli_connect("localhost","elect150_core","root","") or 
 			die ("Connection Failed");
 }
 
